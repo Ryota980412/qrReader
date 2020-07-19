@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Reader</string>
+    <string name="hello_world">Hello world</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="Empty">Empty</string>
+
+</resources>
